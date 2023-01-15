@@ -1,0 +1,76 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Work Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+	
+  \cventry
+	{Graduate Research Assistant} % Job title
+	{Simulation-Based Engineering Lab at UW-Madison} % Organisation
+	{Madison, WI} % Location
+	{Jan 2021 - Present} % Date(s)
+	{
+		\begin{cvitems} % Description(s) of tasks/responsibilities
+			\item {Advisor: Professor Dan Negrut.}
+			\item {Autonomous vehicle coordination and simulation of vehicle dynamics, leveraging simulation fidelity and real-time performance for Human-In-The-Loop(HIL) and Software-In-The-Loop(SIL) applications. Head developer of chrono::HIL, a submodule of Project Chrono (https://projectchrono.org/) to provide HIL, real-time simulation support for traffic scenarios and vehicle dynamics. chrono:HIL provides flexible simulator hardware coupling capabilities, distributed simulation support, soft real-time simulation support, and multiple vehicle dynamic models.}
+			\item {Integrating Sensor (LIDAR/RADAR/CAM) simulation using chrono::sensor into traffic scenarios to assist the development of autonomous vehicle control policies.}
+			\item {Extraterrestrial rover and robot mechanical component simulation. Applications/development/validation of SCM (Soil Contact Model), SPH, and DEM deformable terrain. Head developer of the VIPER lunar rover model and the Curiosity mars rover model in the chrono::robot module.}
+		\end{cvitems}
+	}
+		
+	
+%--------------------------------------------------------
+
+  \cventry
+	{Undergraduate Research Assistant} % Job title
+	{Simulation-Based Engineering Lab at UW-Madison} % Organisation
+	{Madison, WI} % Location
+	{Jun 2020 - Dec 2020} % Date(s)
+	{
+		\begin{cvitems} % Description(s) of tasks/responsibilities
+			\item {Advisor: Professor Dan Negrut.}
+			\item {Development and validation of chrono::granular (later renamed as chrono::gpu), a CUDA solver for granular dynamics. chrono::granular can be used to simulate homogeneous granular material; applications include granular material properties testing and deformable terrian for off-road vehicle research.}
+			\item {Development of synchronization functionalities in chrono::synchrono - MPI and DDS interfaces of chrono::vehicles; utilization of parallel computing for real-time performance.}
+		\end{cvitems}
+	}
+
+
+% --------------------------------------------------------
+
+  \cventry
+	{Undergraduate Research Assistant} % Job title
+	{Human Computer Interaction Lab at UW-Madison} % Organisation
+	{Madison, WI} % Location
+	{Sep 2019 - May 2020} % Date(s)
+	{
+	  \begin{cvitems} % Description(s) of tasks/responsibilities
+		\item {Advisor: Professor Bilge Mutlu.}
+		\item {Developing a QR Marker object tracking program based on OpenCV in C++. The program helps educational robots to identify objects and their movements in order to facilitate human-computer interaction.}
+		\item {Designing and developing of simulation environment for robot localization algorithm using ROS2. The simulation environment allows a Turtlebot model to follow certain trajectories in an indoor environment relying purely on QR codes identified by the machine learning algorithm.}
+		\item {Creating of the CAD models for robot's parts  using Solidworks and 3D printing software.}
+	  \end{cvitems}
+}
+
+
+%---------------------------------------------------------
+  \cventry
+    {Software Engineering Intern \& Embedded System Engineering Intern} % Job title
+    {Alstom} % Organisation
+    {Melbourne, FL} % Location
+    {May 2019 - Aug 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Cooperating with Alstom's System Validation Team to perform system tests and review code (primarily in C++ and Python) on Alstom DAU (Data Acquisition Unit), a vital wayside component of the Alstom's Automatic Railway Signaling System; Debugging lower-level program, scanning and hacking the Apache server installed to search for possible bugs which may lead to the fatal crash of the system.}
+        \item {Developing a C++ testing program for Alstom's Wayside Linux-Based Core ACE board to meet Hardware Serial Test Specifications including multi-CPU communication (based on C++ socket), I2C, UART, SPI, onboard GPIO connection, Watchdog Timer, and other hardware checks. The testing program includes both lower-level hardware programming (hardware read and write interfaces, UDP socket communication designed for multi-CPU connection, file read and write operations used to check the functionalities of FRAM, Flash Memory, and eMMC) and higher-level software programming (user Interface, comparison algorithm used to determine whether the actual result matches original expectations).}
+        \item {Participating in technical reviews, technology transfer meetings, and code reviews. Learning the coding standard in Alstom.}
+        \item {Learning concepts and architectures of the modern autonomous railway system and contributing to the design of the system.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+\end{cventries}
