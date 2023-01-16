@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.1.1)  15 JAN 2023 17:54
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.1.1)  15 JAN 2023 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1249,32 +1249,8 @@ ng=tex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Semibold.otf
 ) (./cv/experience.tex
-Underfull \hbox (badness 2884) in paragraph at lines 24--24
-[]\TU/SourceSansPro(2)/m/n/9 Autonomous vehicle coordination and simulation of 
-vehicle dynamics, leveraging simulation fidelity and real-time performance for
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 24--24
-\TU/SourceSansPro(2)/m/n/9 Human-In-The-Loop(HIL) and Software-In-The-Loop(SIL)
- applications. Head developer of chrono::HIL, a submodule of Project Chrono
- []
-
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 73.
-Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
-g=tex-text;" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
-Pro-Regular.otf
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 73.
-Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
-mapping=tex-text;" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
-Pro-Regular.otf
-[1
-
-]) (./cv/projects.tex) (./cv/skills.tex
+Requested font "[lmmono9-regular]:" at 9.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" a
 t 9.0pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
@@ -1289,42 +1265,51 @@ Requested font "cmmi9" at 9.0pt
 Requested font "cmmi6" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 25.
+(Font)              scaled to size 9.00096pt on input line 23.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" a
 t 9.00096pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 25.
+(Font)              scaled to size 6.00064pt on input line 23.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" a
 t 6.00064pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 25.
+(Font)              scaled to size 5.00053pt on input line 23.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" a
 t 5.00053pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 25.
+(Font)              scaled to size 8.99904pt on input line 23.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" a
 t 8.99904pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 25.
+(Font)              scaled to size 5.99936pt on input line 23.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" a
 t 5.99936pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 25.
+(Font)              scaled to size 4.99947pt on input line 23.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" a
 t 4.99947pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 25.
-Requested font "[SourceSansPro-Light.otf]/OT:script=latn;language=dflt;mapping=
-tex-text;" at 6.0pt
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 72.
+Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
+g=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
-Pro-Light.otf
+Pro-Regular.otf
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
+(Font)              scaled to size 8.0pt on input line 72.
+Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
+mapping=tex-text;" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
+Pro-Regular.otf
+ [1
 
+])
+(./cv/projects.tex) (./cv/skills.tex
 Overfull \hbox (51.3179pt too wide) in alignment at lines 10--29
 [] [] 
  []
@@ -1377,12 +1362,12 @@ Overfull \hbox (22.26286pt too wide) in paragraph at lines 23--24
 
 ) [2] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 33089 strings out of 476191
- 673347 string characters out of 5812073
- 1149434 words of memory out of 5000000
- 53221 multiletter control sequences out of 15000+600000
+ 33092 strings out of 476191
+ 673321 string characters out of 5812073
+ 1152434 words of memory out of 5000000
+ 53223 multiletter control sequences out of 15000+600000
  473799 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 114i,12n,127p,734b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 114i,12n,127p,935b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (2 pages).
