@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.1.1)  15 JAN 2023 21:31
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.1.1)  15 JAN 2023 21:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1295,13 +1295,13 @@ Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=1;" a
 t 4.99947pt
  -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 72.
+(Font)              scaled to size 8.0pt on input line 70.
 Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
 g=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Regular.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 72.
+(Font)              scaled to size 8.0pt on input line 70.
 Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
 mapping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
@@ -1316,57 +1316,35 @@ Overfull \hbox (51.3179pt too wide) in alignment at lines 10--29
 
 ) (./cv/publication.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 12.
+(Font)              scaled to size 9.0pt on input line 12.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 18.
+(Font)              scaled to size 9.0pt on input line 18.
+Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
+ex-text;" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
+Pro-Bold.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 18.
+(Font)              scaled to size 9.0pt on input line 18.
 Requested font "[SourceSansPro-RegularIt.otf]/OT:script=latn;language=dflt;mapp
-ing=tex-text;" at 10.0pt
+ing=tex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-RegularIt.otf
-Requested font "[lmmono10-regular]:" at 10.0pt
- -> /usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf
-Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 10.0pt
- -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
-Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" a
-t 7.0pt
- -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 18.
-Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 10.001
-07pt
- -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 18.
-Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" a
-t 7.00075pt
- -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 18.
-Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 9.9989
-3pt
- -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 18.
-Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;+ssty=0;" a
-t 6.99925pt
- -> /usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf
 
-Overfull \hbox (22.26286pt too wide) in paragraph at lines 23--24
-\TU/SourceSansPro(0)/m/n/10 rover mobility, 2021/10, \TU/SourceSansPro(0)/m/it/
-10 Preprint\TU/SourceSansPro(0)/m/n/10 , []$[][][][][] [] [] [] [][][] [] [][][
-][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [
-] [][][][][][][][][] [] [][][][][] [] [][][][][][][][] []
+Overfull \hbox (2.63809pt too wide) in paragraph at lines 26--27
+\TU/SourceSansPro(0)/m/n/9 2021/10, \TU/SourceSansPro(0)/m/it/9 Preprint\TU/Sou
+rceSansPro(0)/m/n/9 , []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][]
+ [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][
+] [] [][][][][] [] [][][][][][][][] [] [][][][][][][][][][] [] [][][][][] [] []
+ []
  []
 
-) [2] (./resume.aux) ) 
+) (./cv/videos.tex) [2] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 33092 strings out of 476191
- 673321 string characters out of 5812073
- 1152434 words of memory out of 5000000
- 53223 multiletter control sequences out of 15000+600000
- 473799 words of font info for 141 fonts, out of 8000000 for 9000
+ 33083 strings out of 476191
+ 672885 string characters out of 5812073
+ 1150434 words of memory out of 5000000
+ 53218 multiletter control sequences out of 15000+600000
+ 473409 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  114i,12n,127p,935b,868s stack positions out of 5000i,500n,10000p,200000b,80000s
 
